@@ -3,12 +3,12 @@
 -----
 
 <p align="center">
-    🤓 <a href="https://zhangzjn.github.io/projects/T3-Video">Project</a> &nbsp&nbsp | 📑 <a href="https://arxiv.org/abs/2506.13691">Paper</a> &nbsp&nbsp | 🤗 <a href="https://huggingface.co/APRIL-AIGC/T3-Video">Pretrained T3-Video Weights (4K)</a>&nbsp&nbsp
+    🤓 <a href="https://zhangzjn.github.io/projects/T3-Video">Project</a> &nbsp&nbsp | 📑 <a href="https://arxiv.org/abs/2512.13492">Paper</a> &nbsp&nbsp | 🤗 <a href="https://huggingface.co/APRIL-AIGC/T3-Video">Pretrained T3-Video Weights (4K)</a>&nbsp&nbsp
 <br>
 
 -----
 
-[**Transform Trained Transformer: Accelerating Naive 4K Video Generation Over 10$\times$**](https://arxiv.org/abs/2506.13691)
+[**Transform Trained Transformer: Accelerating Naive 4K Video Generation Over 10$\times$**](https://arxiv.org/abs/2512.13492)
 
 🎋 **Click ↓ to watch `4K World Vision` demo by native 4K video generation model [T3-Video-Wan2.1-T2V-1.3B](https://huggingface.co/APRIL-AIGC/T3-Video)**
 [![](assets/teaser.jpg)](https://www.youtube.com/watch?v=mCTu6f2vAyU)
@@ -71,11 +71,14 @@ We would like to thank the contributors to the [Wan2.1](https://github.com/Wan-V
 If you find our work helpful, please cite us.
 
 ```
-@article{t3video,
-  title={Transform Trained Transformer: Accelerating Naive 4K Video Generation Over 10$\times$},
-  author={Zhang, Jiangning and Zhu, Junwei and Hu, Teng and Wang, Yabiao and Luo, Donghao and Cao, Weijian and Gan, Zhenye and Hu, Xiaobin and Xue, Zhucun and Wang, Chengjie}, 
-  journal={arXiv preprint arXiv:xxxx.xxxxx},
-  year={2025}
+@misc{t3video,
+    title={Transform Trained Transformer: Accelerating Naive 4K Video Generation Over 10$\times$}, 
+    author={Jiangning Zhang and Junwei Zhu and Teng Hu and Yabiao Wang and Donghao Luo and Weijian Cao and Zhenye Gan and Xiaobin Hu and Zhucun Xue and Chengjie Wang},
+    year={2025},
+    eprint={2512.13492},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV},
+    url={https://arxiv.org/abs/2512.13492}, 
 }
 ```
 
